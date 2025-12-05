@@ -1,7 +1,7 @@
 const VEHICLES = [
   {
     id: "classic-350-2025",
-    model: "Royal Enfield Classic 350 (2025) - Gun Grey",
+    model: "Royal Enfield Classic 350 (2025)",
     tankCapacity: 13,
     reserveLitres: 3.8,
     avgMileage: 32
